@@ -32,4 +32,4 @@ stories:
 - story: hello world
   steps:
     - intent: hello_world
-    - action: utter_hello_world
+    - action: action_execute_custom_code

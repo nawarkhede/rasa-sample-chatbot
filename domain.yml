@@ -10,6 +10,9 @@ intents:
   - bot_challenge
   - hello_world
 
+actions:
+  - action_execute_custom_code
+
 responses:
   utter_greet:
   - text: "Hey! How are you?"
